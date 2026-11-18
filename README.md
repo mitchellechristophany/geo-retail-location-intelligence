@@ -31,3 +31,5 @@ A spatial analytics framework utilizing Multi-Criteria Decision Analysis (MCDA) 
                          │
                          ▼
         [ Prioritized Site Suitability Index ]
+
+
